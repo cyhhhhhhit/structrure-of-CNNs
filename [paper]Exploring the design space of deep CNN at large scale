@@ -1,0 +1,5 @@
+Exploring the design space of deep CNN at large scale// ref:https://arxiv.org/pdf/1612.06519.pdf
+Abstract:
+  motivation: there is no exists a specific CNN architecture that can solved all problems optimally, instead proper CNN quite depend on   tasks, so an methodology that enables systematic exploration of a design space of CNN is a meritorious work.
+  details: this work is comprised of 4 themes:1)chosing benchmarks; 2)train CNN models; 3)defining, describing CNN design space; 4) Exploring the desing space of CNN architectures.
+  

@@ -1,8 +1,22 @@
 Exploring the design space of deep CNN at large scale// ref:https://arxiv.org/pdf/1612.06519.pdf
+***************************
 Abstract:
   motivation: there is no exists a specific CNN architecture that can solved all problems optimally, instead proper CNN quite depend on   tasks, so an methodology that enables systematic exploration of a design space of CNN is a meritorious work.
+  
   details: this work is comprised of 4 themes:1)chosing benchmarks; 2)train CNN models; 3)defining, describing CNN design space; 4) Exploring the desing space of CNN architectures.
-
+  
+  
+***************************
 Chapter 1: Introduction and Motivation
-  machine learning: enable the computer to automatically learn whithout explicitly being programmed. 
+  machine learning: enable the computer to automatically learn whithout explicitly being programmed.
+  
   motivating the search for right deep cnn architecture: since 2012, the best performance on many problems of computer vision are achieved by deep CNNs and a single DNN configuration is not able to singlehandedly sovle all problems. 
+  
+  metrics:accuracy; training speed; inference speed; model size; energy efficiency
+  
+  ingredients for success in deep learning: training data; right models; efficient inference
+  
+***************************  
+Chapter 4：Defining and describing the design space of DNN architectures.
+  By CNN architecture, we mean: the type of layers to use; the number of layers; the dimension of each layer; the ordering of layer.
+  

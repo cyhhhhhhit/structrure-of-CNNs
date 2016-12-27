@@ -1,2 +1,2 @@
 # structrure-of-CNNs
-explore how does CNN work
+To explore how do CNNs work
